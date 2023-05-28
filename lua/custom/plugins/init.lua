@@ -3,5 +3,6 @@
 --
 -- See the kickstart.nvim README for more information
 return {
-    'ryanoasis/vim-devicons'
+    'ryanoasis/vim-devicons',
+    'github/copilot.vim'
 }
